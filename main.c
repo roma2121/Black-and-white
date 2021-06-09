@@ -2,9 +2,16 @@
 #include <stdlib.h>
 #include <string.h>
 
-int main()
+int main(int ac, char *av[])
 {
-    FILE *fIn = fopen("courtyard.bmp", "rb");
+   char *nameFile;
+   if (ac > 1) nameFile = av[1];
+   else
+  {
+    printf("File name not specified");
+    return 1;
+  }
+    FILE *fIn = fopen(nameFile, "rb");
     FILE *fOut = fopen("courtyard_gray.bmp", "wb");
     if (!fIn || !fOut)
     {

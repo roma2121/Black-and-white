@@ -12,7 +12,7 @@ int main(int ac, char *av[])
     return 1;
   }
     FILE *fIn = fopen(nameFile, "rb");
-    FILE *fOut = fopen("courtyard_gray.bmp", "wb");
+    FILE *fOut = fopen("newpicture.bmp", "wb");
     if (!fIn || !fOut)
     {
         printf("File error.\n");

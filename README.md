@@ -3,7 +3,7 @@ This program converts BMP color images to black and white.
 To run the program, you need to: 
 - prepare a BMP file (put it in the project folder)
 - compile the program (gcc.exe main.c -o bmpBW.exe)
-- run the program (bmpBW.exe)
+- run the program (bmpBW.exe picture name or path to picture)
 ---
 ___Before use:___
 

@@ -7,7 +7,7 @@ To run the program, you need to:
 ---
 ___Before use:___
 
-![Before use](courtyard.bmp)
+![Before use](https://raw.githubusercontent.com/roma2121/Black-and-white/main/Pictures/courtyard.bmp)
 
 ___After use:___
 

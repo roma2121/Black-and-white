@@ -11,6 +11,6 @@ ___Before use:___
 
 ___After use:___
 
-![After use:](courtyard_gray.bmp)
+![After use:](https://raw.githubusercontent.com/roma2121/Black-and-white/main/Pictures/courtyard_gray.bmp)
 
 ---
